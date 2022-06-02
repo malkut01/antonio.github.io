@@ -18,3 +18,16 @@ img{
 	display:block;
 	margin-left: auto;
 	margin-rigth: auto;
+}
+
+a:houver{
+	color:black
+}
+
+a:visited{
+	color:aquamarine;
+}
+
+a{
+	color:aliceblue
+}
